@@ -1,0 +1,17 @@
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\bin\Debug\net6.0-windows\TareafinalCliente.exe
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\bin\Debug\net6.0-windows\TareafinalCliente.deps.json
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\bin\Debug\net6.0-windows\TareafinalCliente.runtimeconfig.json
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\bin\Debug\net6.0-windows\TareafinalCliente.dll
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\bin\Debug\net6.0-windows\TareafinalCliente.pdb
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\TareafinalCliente.csproj.AssemblyReference.cache
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\TareafinalCliente.Form1.resources
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\TareafinalCliente.csproj.GenerateResource.cache
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\TareafinalCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\TareafinalCliente.AssemblyInfoInputs.cache
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\TareafinalCliente.AssemblyInfo.cs
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\TareafinalCliente.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\TareafinalCliente.dll
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\refint\TareafinalCliente.dll
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\TareafinalCliente.pdb
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\TareafinalCliente.genruntimeconfig.cache
+C:\Users\jose\Documents\git\DAMTareaFinal01ServiciosyProcesos\DAMTareaFinal01ServiciosProcesos\TareafinalCliente\TareafinalCliente\obj\Debug\net6.0-windows\ref\TareafinalCliente.dll

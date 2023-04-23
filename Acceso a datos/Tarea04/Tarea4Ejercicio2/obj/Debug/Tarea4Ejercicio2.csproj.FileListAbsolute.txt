@@ -1,0 +1,15 @@
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\bin\Debug\Tarea4Ejercicio2.exe.config
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\bin\Debug\Tarea4Ejercicio2.exe
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\bin\Debug\Tarea4Ejercicio2.pdb
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\bin\Debug\PetaPoco.dll
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.Properties.Resources.resources
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.csproj.GenerateResource.cache
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.csproj.CopyComplete
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.exe
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.pdb
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.Form1.resources
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.FormModificarEquipo.resources
+C:\Users\jose\Documents\git\AccesoDatos\Tarea4Ejercicio2\obj\Debug\Tarea4Ejercicio2.FormModificarFutbolista.resources

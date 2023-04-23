@@ -1,0 +1,7 @@
+1 error
+this.listaFabricantes.SelectedIndexChanged += new System.EventHandler(this.listaFabricantes_SelectedIndexChanged);
+
+Esta dando error en esta linea porque el componente grafico listaFabricantes no existe. Se borra la linea.
+
+2ª cambiar el origen de datos PERO SIGUE SIN FUNCIONAR
+

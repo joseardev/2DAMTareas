@@ -1,0 +1,15 @@
+C:\Users\jose\source\repos\Tarea01\Tarea01\bin\Release\net6.0\Tarea01.exe
+C:\Users\jose\source\repos\Tarea01\Tarea01\bin\Release\net6.0\Tarea01.deps.json
+C:\Users\jose\source\repos\Tarea01\Tarea01\bin\Release\net6.0\Tarea01.runtimeconfig.json
+C:\Users\jose\source\repos\Tarea01\Tarea01\bin\Release\net6.0\Tarea01.dll
+C:\Users\jose\source\repos\Tarea01\Tarea01\bin\Release\net6.0\Tarea01.pdb
+C:\Users\jose\source\repos\Tarea01\Tarea01\obj\Release\net6.0\Tarea01.csproj.AssemblyReference.cache
+C:\Users\jose\source\repos\Tarea01\Tarea01\obj\Release\net6.0\Tarea01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\source\repos\Tarea01\Tarea01\obj\Release\net6.0\Tarea01.AssemblyInfoInputs.cache
+C:\Users\jose\source\repos\Tarea01\Tarea01\obj\Release\net6.0\Tarea01.AssemblyInfo.cs
+C:\Users\jose\source\repos\Tarea01\Tarea01\obj\Release\net6.0\Tarea01.csproj.CoreCompileInputs.cache
+C:\Users\jose\source\repos\Tarea01\Tarea01\obj\Release\net6.0\Tarea01.dll
+C:\Users\jose\source\repos\Tarea01\Tarea01\obj\Release\net6.0\refint\Tarea01.dll
+C:\Users\jose\source\repos\Tarea01\Tarea01\obj\Release\net6.0\Tarea01.pdb
+C:\Users\jose\source\repos\Tarea01\Tarea01\obj\Release\net6.0\Tarea01.genruntimeconfig.cache
+C:\Users\jose\source\repos\Tarea01\Tarea01\obj\Release\net6.0\ref\Tarea01.dll

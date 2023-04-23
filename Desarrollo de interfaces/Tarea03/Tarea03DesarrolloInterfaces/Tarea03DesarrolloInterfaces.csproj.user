@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="BorrarContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Contactos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModificarContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Contactos.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

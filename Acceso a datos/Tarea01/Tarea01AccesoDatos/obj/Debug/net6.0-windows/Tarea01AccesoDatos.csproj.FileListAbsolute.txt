@@ -1,0 +1,59 @@
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.exe
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.deps.json
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.runtimeconfig.json
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.dll
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.pdb
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Form1.resources
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.AssemblyInfo.cs
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.dll
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\refint\Tarea01AccesoDatos.dll
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.pdb
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.genruntimeconfig.cache
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\ref\Tarea01AccesoDatos.dll
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Ejercicio1.resources
+C:\Users\Jose\Documents\Clasess\Acceso a datos\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Ejercicio2.resources
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.exe
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.deps.json
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.runtimeconfig.json
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.dll
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.pdb
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Ejercicio1.resources
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Ejercicio2.resources
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Form1.resources
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.csproj.GenerateResource.cache
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.AssemblyInfo.cs
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.dll
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\refint\Tarea01AccesoDatos.dll
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.pdb
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.genruntimeconfig.cache
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\ref\Tarea01AccesoDatos.dll
+C:\Users\jose\Documents\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Ejercicio3.resources
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.exe
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.deps.json
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.runtimeconfig.json
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.dll
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\bin\Debug\net6.0-windows\Tarea01AccesoDatos.pdb
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Ejercicio1.resources
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Ejercicio2.resources
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Ejercicio3.resources
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.Form1.resources
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.AssemblyInfo.cs
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.dll
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\refint\Tarea01AccesoDatos.dll
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.pdb
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\Tarea01AccesoDatos.genruntimeconfig.cache
+C:\Users\Jose\Documents\AlonsoRiveiroJoseTarea1\Tarea01AccesoDatos\Tarea01AccesoDatos\obj\Debug\net6.0-windows\ref\Tarea01AccesoDatos.dll

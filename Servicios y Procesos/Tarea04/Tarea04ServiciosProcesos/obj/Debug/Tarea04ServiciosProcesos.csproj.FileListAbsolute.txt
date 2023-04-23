@@ -1,0 +1,11 @@
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\bin\Debug\Tarea04ServiciosProcesos.exe.config
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\bin\Debug\Tarea04ServiciosProcesos.exe
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\bin\Debug\Tarea04ServiciosProcesos.pdb
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\obj\Debug\Tarea04ServiciosProcesos.csproj.AssemblyReference.cache
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\obj\Debug\Tarea04ServiciosProcesos.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\obj\Debug\Tarea04ServiciosProcesos.MyServicio.resources
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\obj\Debug\Tarea04ServiciosProcesos.ProjectInstaller.resources
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\obj\Debug\Tarea04ServiciosProcesos.csproj.GenerateResource.cache
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\obj\Debug\Tarea04ServiciosProcesos.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\obj\Debug\Tarea04ServiciosProcesos.exe
+C:\Users\jose\Documents\git\ServiciosProcesos\Ejercicioteam4\Tarea04ServiciosProcesos\obj\Debug\Tarea04ServiciosProcesos.pdb

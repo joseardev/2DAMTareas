@@ -1,0 +1,13 @@
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\PetaPoco.dll
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CopyComplete

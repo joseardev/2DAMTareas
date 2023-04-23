@@ -1,0 +1,32 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Examen\Ejercicio3\Actividades\Actividad7\bin\Debug\Actividad7.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Examen\Ejercicio3\Actividades\Actividad7\bin\Debug\Actividad7.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Examen\Ejercicio3\Actividades\Actividad7\bin\Debug\Actividad7.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Examen\Ejercicio3\Actividades\Actividad7\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Examen\Ejercicio3\Actividades\Actividad7\obj\Debug\Actividad7.Form1.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Examen\Ejercicio3\Actividades\Actividad7\obj\Debug\Actividad7.Properties.Resources.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Examen\Ejercicio3\Actividades\Actividad7\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Examen\Ejercicio3\Actividades\Actividad7\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Examen\Ejercicio3\Actividades\Actividad7\obj\Debug\Actividad7.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Tareas\Examen\Ejercicio3\Actividades\Actividad7\obj\Debug\Actividad7.pdb
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Actividad7.Form1.resources
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Actividad7.Properties.Resources.resources
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Actividad7.exe
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Actividad7.pdb
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Actividad7.exe.config
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Actividad7.exe
+C:\Users\Jose\Desktop\MATERIAL\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Actividad7.pdb
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\bin\Debug\Actividad7.exe.config
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\bin\Debug\Actividad7.exe
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\bin\Debug\Actividad7.pdb
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\obj\Debug\Actividad7.Form1.resources
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\obj\Debug\Actividad7.Properties.Resources.resources
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\obj\Debug\Actividad7.exe
+C:\Users\Jose\Documents\examen\ejercicio1\Ejercicio3\Ejercicio3\obj\Debug\Actividad7.pdb
