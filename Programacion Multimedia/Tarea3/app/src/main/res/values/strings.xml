@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tarea3</string>
+    <string name="introduce_una_hora">Introduce una hora</string>
+    <string name="introduce_una_fecha">Introduce una fecha</string>
+    <string name="buscador">Buscador</string>
+</resources>

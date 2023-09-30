@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="logo_equipo">Logo Equipo</string>
+    <string name="edad">Edad</string>
+    <string name="modificar">Modificar</string>
+    <string name="numero">Numero</string>
+    <string name="jugador">Jugador</string>
+    <string name="nuevo_futbolistas">Nuevo Futbolistas</string>
+    <string-array name="equipos">
+            <item>real_madrid</item>
+            <item>logo_celta</item>
+            <item>logo_barca</item>
+        </string-array>
+</resources>

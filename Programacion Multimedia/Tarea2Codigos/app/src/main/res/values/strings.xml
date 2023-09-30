@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea2Codigos</string>
+    <string name="qr">QR</string>
+    <string name="limpiar_inventario">Limpiar Inventario</string>
+    <string name="scanner">Scanner</string>
+    <string name="lecturas">Lecturas</string>
+</resources>

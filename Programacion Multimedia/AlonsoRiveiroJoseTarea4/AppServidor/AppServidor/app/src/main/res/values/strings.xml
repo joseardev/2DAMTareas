@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppCliente</string>
+    <string name="adivini_la_palabra_se_pueden_enviar_letras_y_te_avisa_si_aciertas_alguna_en_caso_de_que_ya_sepas_la_palabra_solo_tienes_que_escribir_la_palabra_al_completo">Adivini la palabra, se pueden enviar letras y te avisa si aciertas alguna. En caso de que ya sepas la palabra solo tienes que escribir la palabra al completo</string>
+    <string name="mensaje">MENSAJE</string>
+
+
+</resources>
